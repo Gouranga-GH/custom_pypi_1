@@ -1,0 +1,6 @@
+ twine
+ wheel 
+ setuptools
+ numpy
+ pandas
+ 
