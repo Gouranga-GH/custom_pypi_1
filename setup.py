@@ -8,7 +8,7 @@ with open("README.md", "r") as f:
 # The setup function is used to specify details about the package
 setup(
     name="synthetic_data_generator",  # The name of the package as it will appear in PyPI
-    version="0.0.2",  # Initial version of the package (follows semantic versioning)
+    version="0.0.3",  # Initial version of the package (follows semantic versioning)
     description="A Python package to generate synthetic datasets resembling real-world data",  # Short description of what the package does
 
     # Define the directory structure; here, 'app' is the root folder containing the package

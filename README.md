@@ -14,13 +14,7 @@ This package is ideal for data scientists, researchers, and machine learning eng
 
 ## **Installation**
 
-To install the package from PyPI, use the following command:
-
-```bash
-pip install synthetic-data-generator
-```
-
-If you are testing from TestPyPI, install it using:
+From TestPyPI, install it using:
 
 ```bash
 pip install --index-url https://test.pypi.org/simple/ synthetic-data-generator
@@ -29,7 +23,7 @@ pip install --index-url https://test.pypi.org/simple/ synthetic-data-generator
 In any other case, install it using:
 
 ```bash
-pip install --extra-index-url https://test.pypi.org/simple/ synthetic-data-generator==0.0.2
+pip install --extra-index-url https://test.pypi.org/simple/ synthetic-data-generator
 ```
 
 
