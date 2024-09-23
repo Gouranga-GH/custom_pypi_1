@@ -5,6 +5,8 @@ The Synthetic Data Generator package allows users to generate synthetic datasets
 
 This package is ideal for data scientists, researchers, and machine learning engineers who need synthetic data for testing, modeling, or experimentation when real data is unavailable or when data privacy is a concern.
 
+test pypi - Documentation Link: https://test.pypi.org/project/synthetic-data-generator/ 
+
 ## **Key Features**
 - Generate continuous data following a normal distribution.
 - Generate categorical data with customizable categories.
